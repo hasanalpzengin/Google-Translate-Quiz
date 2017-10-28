@@ -1,0 +1,54 @@
+.menu{
+  margin: auto;
+  background-color: #B31D14;
+  width: 300px;
+  height: auto;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.menu h2{
+  padding: 20px;
+}
+
+.button{
+  display: block;
+  width: auto;
+  padding: 20px 10px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.sendButton{
+  display: block;
+  width: 300px;
+  background-color: #087891;
+  padding: 20px 10px;
+  margin: auto;
+  border-radius: 30px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.button:hover{
+  background: #02151A;
+}
+
+.fileForm{
+  text-align: center;
+  margin: auto;
+  background-color: #087891;
+  width: 500px;
+  height: auto;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.fileForm table{
+  margin: auto;
+}
