@@ -1,6 +1,6 @@
 # Google Translate Quiz Alpha 01
 ## Information
-This Program Created for Personal Usage by Hasan Alp Zengin. Writed with PHP, HTML and CSS. Used [PHPExcel Module](https://github.com/PHPOffice/PHPExcel).
+This Program Created for Personal Usage by Hasan Alp Zengin. Writed with PHP, HTML and CSS. Used [PHPExcel Module](https://github.com/PHPOffice/PHPExcel). You can use this program to improve your foreign word knowledge.
 
 ## Usage
 You can use this program with PHP supported Apache Server.
